@@ -65,14 +65,14 @@ i{
     cursor: pointer;
 }
 .sec1{
-    background: url(/images/16.jpg) no-repeat;
+    background: url(16.jpg) no-repeat;
     margin-left: -20px;
     background-size: cover;
     height: 100vh;
     
 }
 .sec2{
-    background: url(/images/13.jpg) no-repeat;
+    background: url(13.jpg) no-repeat;
     margin-left: -20px;
     background-size: cover;
     height: 100vh;
@@ -80,7 +80,7 @@ i{
 }
 .sec3{
     margin-left: -20px;
-    background: url(/images/17.jpg) 
+    background: url(17.jpg) 
     no-repeat;
     background-size: cover;
     height: 100vh;
@@ -88,28 +88,28 @@ i{
 }
 .sec4{
     margin-left: -20px;
-    background: url(/images/19.jpg) no-repeat;
+    background: url(19.jpg) no-repeat;
     background-size: cover;
     height: 100vh; 
 
 }
 .sec5{
     margin-left: -20px;
-    background: url(/images/20.jpg) no-repeat;
+    background: url(20.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
 
 }
 .sec6{
     margin-left: -20px;
-    background: url(/images/21.jpg) no-repeat;
+    background: url(21.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
 
 }
 .sec7{
     margin-left: -20px;
-    background: url(/images/4.jpg) no-repeat;
+    background: url(4.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
 
